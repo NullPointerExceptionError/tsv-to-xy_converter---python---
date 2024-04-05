@@ -1,2 +1,10 @@
-# tsv-to-xy_converter---python---
-converts a folder of .tsv files to .xy files, delets first line of the .tsv files and changes , to .
+# .tsv -> .xy Converter (executable)
+converts .tsv files into .xy files
+
+## Features
+- converts folder of .tsv files into .xy files
+- removes header if existing
+- replaces all `,` with `.`
+
+## Note
+- Make sure to **keep backups of your original TSV files**, as they will be removed from the script.
