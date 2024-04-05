@@ -8,3 +8,6 @@ converts .tsv files into .xy files
 
 ## Note
 - Make sure to **keep backups of your original TSV files**, as they will be removed from the script.
+
+### Executable (Windows)
+https://github.com/NullPointerExceptionError/tsv-to-xy_converter 
