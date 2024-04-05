@@ -1,4 +1,4 @@
-# .tsv -> .xy Converter (executable)
+# .tsv -> .xy Converter (source code)
 converts .tsv files into .xy files
 
 ## Features
